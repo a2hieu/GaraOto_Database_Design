@@ -1,7 +1,5 @@
 # 🚗 Gara Ô Tô – Database Design & Implementation
 
-![ERD](image.png)
-
 ##  Giới thiệu
 Dự án này được thực hiện trong khuôn khổ môn **Cơ sở dữ liệu nâng cao**, với mục tiêu:
 - Phân tích, thiết kế & triển khai hệ thống **CSDL quản lý Gara Ô Tô**.
