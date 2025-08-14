@@ -1,4 +1,4 @@
-# 🚗 Gara Ô Tô – Database Design & Implementation
+#  Gara Ô Tô – Database Design & Implementation
 
 ##  Giới thiệu
 Dự án này được thực hiện trong khuôn khổ môn **Cơ sở dữ liệu nâng cao**, với mục tiêu:
